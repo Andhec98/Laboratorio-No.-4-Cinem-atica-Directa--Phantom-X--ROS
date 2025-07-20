@@ -3,6 +3,7 @@
 
 ### Integrantes del Grupo
 
+-Este laboratorio se desarrollo con la participación de dos grupos de trabajo, los cuales son los siguientes:
 
 | Andrés Mauricio Avilán |
 | Juan David Meza |
