@@ -15,7 +15,7 @@ Esta práctica se llevó a cabo con la participación conjunta de los integrante
 
 El modelado matemático del manipulador incluye:
 
-
+![Foto 1](Imagenes/01.jpg)
 
 
 ## Tabla de parámetros DH estándar (Denavit–Hartenberg)
@@ -248,9 +248,8 @@ Esta función se usa para configurar torques, mover motores a HOME y moverlos a 
 
 ---
 
-### Función 
 
-### Video de ejecución secuencial
+### Video demostrativo
 
 A continuación, se presenta el video de demostración con las poses programadas para el robot PhantomX Pincher X100:
 
@@ -263,10 +262,8 @@ A continuación, se presenta el video de demostración con las poses programadas
 
 A continuación se muestra una tabla con las comparaciones entre la simulación digital y la fotografía real del manipulador:
 
-
-
----
-
-## Conclusiones
-
+![Foto 2](Imagenes/Panthom01.jpg)
+![Foto 3](Imagenes/Panthom02.jpg)
+![Foto 4](Imagenes/Panthom03.jpg)
+![Foto 5](Imagenes/Panthom04.jpg)
 
