@@ -264,6 +264,9 @@ A continuación, se presenta el video de demostración con las poses programadas
 A continuación se muestra una tabla con las comparaciones entre la simulación digital y la fotografía real del manipulador:
 
 ![Descripción de la foto](Imagenes/Panthom01.jpg)
+![Descripción de la foto](Imagenes/Panthom02.jpg)
+![Descripción de la foto](Imagenes/Panthom03.jpg)
+![Descripción de la foto](Imagenes/Panthom04.jpg)
 
 
 ---
